@@ -1,3 +1,3 @@
 Hi Everyone,
-This git account for siamwienery Corp.
+This is a private git account for siamwienery Corp.
 👌 Please learn to use and open your mind for new tech.
